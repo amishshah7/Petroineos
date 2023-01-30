@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Petroineos.PowerTradeExtract.Model\Petroineos.PowerTradeExtract.Model.csproj" />
+    <ProjectReference Include="..\Petroineos.PowerTradeExtract.Repositories\Petroineos.PowerTradeExtract.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
