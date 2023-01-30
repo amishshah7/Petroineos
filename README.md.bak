@@ -1,8 +1,6 @@
 # Petroineos
 
 
-* To generate the extract: Run Petroineos.PowerTradeExtract.IntegrationTests.ExtractPowerTrades_Success. It will add csv file under 'Petroineos.PowerTradeExtract.IntegrationTests\TestOutput\' folder. ie PowerPosition_2023130_1554.csv
-
 * instead of windows service, I would check possibility of hosting in cloud add trigger to that.
 * use TDD based approach
 * I have added projects as standard .net core so that it can either be used with .net framework or .net core
