@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Petroineos.PowerTradeExtract.Services
 {
-    internal class DateFormatService
+    public class DateFormatService : IDateFormatService
+    {
+    }
+
+    public interface IDateFormatService
     {
     }
 }

@@ -7,5 +7,6 @@ namespace Petroineos.PowerTradeExtract.Model
         public string Location { get; set; }
         public int FrequencyInMinutes { get; set; }
         public string OutputDateFormat { get; set; }
+        public ExtractEnums.ExtractType ExtractType { get; set; }
     }
 }

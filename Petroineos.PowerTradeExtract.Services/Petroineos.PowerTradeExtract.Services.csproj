@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Petroineos.PowerTradeExtract.Logging\Petroineos.PowerTradeExtract.Logging.csproj" />
     <ProjectReference Include="..\Petroineos.PowerTradeExtract.Model\Petroineos.PowerTradeExtract.Model.csproj" />
     <ProjectReference Include="..\Petroineos.PowerTradeExtract.Repositories\Petroineos.PowerTradeExtract.Repositories.csproj" />
   </ItemGroup>

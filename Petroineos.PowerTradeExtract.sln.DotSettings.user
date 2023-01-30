@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d1f3df9_002D9842_002D4472_002Da2da_002D357cc36bcbbb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::ABD8B56D-81D8-4BC1-A777-40E206D11B4E::net6.0::Petroineos.PowerTradeExtract.IntegrationTests.ExtractServiceTest.TestMethod1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aafe468b_002D0b01_002D48b4_002Db5ec_002Dbd60ba8548db/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::ABD8B56D-81D8-4BC1-A777-40E206D11B4E::net6.0::Petroineos.PowerTradeExtract.IntegrationTests.ExtractServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::AFCC361D-40A5-4460-A3A7-687F36873F94::net6.0::Petroineos.PowerTradeExtract.UnitTests.ValidationServiceTest.CheckIfExtractExists_False&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::AFCC361D-40A5-4460-A3A7-687F36873F94::net6.0::Petroineos.PowerTradeExtract.UnitTests.CalculationServiceTest.GetFileName_YMDFormat&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
